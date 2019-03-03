@@ -1,0 +1,36 @@
+﻿@model IEnumerable<StoreModel.Models.Product>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>فروشگاه آزمایشی</h1>
+    <p class="lead">این یک فروشگاه آزمایشی است.</p>
+</div>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4 " style="float: right;" >
+            <div style="background-color:lightgray; margin:2px; padding: 10px; border-radius: 5px;">
+                <h2>@product.Title</h2>
+                <p>
+                    @product.Description
+                </p>
+                <p>
+                    <a class="btn btn-default" href="#">جزییات</a>
+                    <a class="btn btn-default" onclick="return AddToBasket(@product.ProductId)" href="/Home/AddToBasket?ProductId=@product.ProductId">اضافه‌کردن به سبد</a>
+                </p>
+            </div>
+        </div>
+    }
+</div>
+
+<script type="text/javascript">
+    function AddToBasket(ProductId) {
+        $.get("/Home/AddToBasket?ProductId=" + ProductId, function (res) {
+            alert(res.result);
+        });
+        return false;
+    }
+</script>

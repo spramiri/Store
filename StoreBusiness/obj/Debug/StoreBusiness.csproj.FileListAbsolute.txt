@@ -1,0 +1,34 @@
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreBusiness.dll.config
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreBusiness.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreBusiness.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\EntityFramework.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreDataAccess.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreModel.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreDataAccess.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreDataAccess.dll.config
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\StoreModel.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\EntityFramework.xml
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\obj\Debug\StoreBusiness.csprojAssemblyReference.cache
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\obj\Debug\StoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\obj\Debug\StoreBusiness.csproj.CopyComplete
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\obj\Debug\StoreBusiness.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreBusiness\obj\Debug\StoreBusiness.pdb
+I:\Store\Store\StoreBusiness\bin\Debug\StoreBusiness.dll.config
+I:\Store\Store\StoreBusiness\bin\Debug\StoreBusiness.dll
+I:\Store\Store\StoreBusiness\bin\Debug\StoreBusiness.pdb
+I:\Store\Store\StoreBusiness\bin\Debug\EntityFramework.dll
+I:\Store\Store\StoreBusiness\bin\Debug\EntityFramework.SqlServer.dll
+I:\Store\Store\StoreBusiness\bin\Debug\StoreDataAccess.dll
+I:\Store\Store\StoreBusiness\bin\Debug\StoreModel.dll
+I:\Store\Store\StoreBusiness\bin\Debug\StoreDataAccess.pdb
+I:\Store\Store\StoreBusiness\bin\Debug\StoreDataAccess.dll.config
+I:\Store\Store\StoreBusiness\bin\Debug\StoreModel.pdb
+I:\Store\Store\StoreBusiness\bin\Debug\EntityFramework.xml
+I:\Store\Store\StoreBusiness\bin\Debug\EntityFramework.SqlServer.xml
+I:\Store\Store\StoreBusiness\obj\Debug\StoreBusiness.csprojAssemblyReference.cache
+I:\Store\Store\StoreBusiness\obj\Debug\StoreBusiness.csproj.CoreCompileInputs.cache
+I:\Store\Store\StoreBusiness\obj\Debug\StoreBusiness.csproj.CopyComplete
+I:\Store\Store\StoreBusiness\obj\Debug\StoreBusiness.dll
+I:\Store\Store\StoreBusiness\obj\Debug\StoreBusiness.pdb

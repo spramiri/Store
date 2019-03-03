@@ -1,0 +1,33 @@
+﻿@model StoreModel.Models.Order
+@{
+    ViewBag.Title = "سبد خرید";
+}
+<style>
+    .row.factor:nth-child(2n) {
+        background-color: aliceblue;
+    }
+</style>
+@if (Model == null)
+{
+
+    <div class="row">برای شما فاکتور صادر نشده است!</div>
+}
+else
+{
+    <div class="row" style="margin-top:30px; font-weight: bold; height: 50px; line-height: 50px; background-color:lightgray;">
+        <div class="col-lg-6 col-md-6 col-sm-6" style="float:right">نام محصول</div>
+        <div class="col-lg-6 col-md-6 col-sm-6" style="float:right">قیمت</div>
+    </div>
+    foreach (var product in Model.OrderProducts.Select(x => x.Product))
+    {
+        <div class="row factor" style=" height: 50px; line-height: 50px;">
+            <div class="col-lg-6 col-md-6 col-sm-6" style="float:right">@product.Title</div>
+            <div class="col-lg-6 col-md-6 col-sm-6" style="float:right">@product.Price تومان</div>
+        </div>
+    }
+
+    <div class="row" style="margin-top:30px; font-weight: bold; height: 50px; line-height: 50px;border-top:solid 1px gray;">
+        <div class="col-lg-6 col-md-6 col-sm-6" style="float:right">مجموع</div>
+        <div class="col-lg-6 col-md-6 col-sm-6" style="float:right">@Model.OrderProducts.Select(x => x.Product).Sum(x=>x.Price) تومان</div>
+    </div>
+}

@@ -1,0 +1,28 @@
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\StoreDataAccess.dll.config
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\StoreDataAccess.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\StoreDataAccess.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\StoreModel.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\StoreModel.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\obj\Debug\StoreDataAccess.csprojAssemblyReference.cache
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\obj\Debug\StoreDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\obj\Debug\StoreDataAccess.csproj.CopyComplete
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\obj\Debug\StoreDataAccess.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreDataAccess\obj\Debug\StoreDataAccess.pdb
+I:\Store\Store\StoreDataAccess\bin\Debug\StoreDataAccess.dll.config
+I:\Store\Store\StoreDataAccess\bin\Debug\StoreDataAccess.dll
+I:\Store\Store\StoreDataAccess\bin\Debug\StoreDataAccess.pdb
+I:\Store\Store\StoreDataAccess\bin\Debug\EntityFramework.dll
+I:\Store\Store\StoreDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+I:\Store\Store\StoreDataAccess\bin\Debug\StoreModel.dll
+I:\Store\Store\StoreDataAccess\bin\Debug\StoreModel.pdb
+I:\Store\Store\StoreDataAccess\bin\Debug\EntityFramework.xml
+I:\Store\Store\StoreDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+I:\Store\Store\StoreDataAccess\obj\Debug\StoreDataAccess.csprojAssemblyReference.cache
+I:\Store\Store\StoreDataAccess\obj\Debug\StoreDataAccess.csproj.CoreCompileInputs.cache
+I:\Store\Store\StoreDataAccess\obj\Debug\StoreDataAccess.csproj.CopyComplete
+I:\Store\Store\StoreDataAccess\obj\Debug\StoreDataAccess.dll
+I:\Store\Store\StoreDataAccess\obj\Debug\StoreDataAccess.pdb

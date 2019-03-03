@@ -1,0 +1,46 @@
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreWeb.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreWeb.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\System.Web.Http.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\System.Web.Http.xml
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\obj\Debug\StoreWeb.csprojAssemblyReference.cache
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\obj\Debug\StoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\obj\Debug\StoreWeb.csproj.CopyComplete
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\obj\Debug\StoreWeb.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\obj\Debug\StoreWeb.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreBusiness.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreModel.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreDataAccess.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\EntityFramework.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreBusiness.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreBusiness.dll.config
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreModel.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreDataAccess.pdb
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreDataAccess.dll.config
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\EntityFramework.xml
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\StoreWeb.dll.config
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SkyHost\Documents\Visual Studio 2017\Projects\Store\StoreWeb\bin\Debug\EntityFramework.SqlServer.xml
+I:\Store\Store\StoreWeb\obj\Debug\StoreWeb.csprojAssemblyReference.cache
+I:\Store\Store\StoreWeb\obj\Debug\StoreWeb.csproj.CoreCompileInputs.cache
+I:\Store\Store\StoreWeb\obj\Debug\StoreWeb.dll
+I:\Store\Store\StoreWeb\obj\Debug\StoreWeb.pdb
+I:\Store\Store\StoreWeb\bin\Debug\StoreWeb.dll.config
+I:\Store\Store\StoreWeb\bin\Debug\StoreWeb.dll
+I:\Store\Store\StoreWeb\bin\Debug\StoreWeb.pdb
+I:\Store\Store\StoreWeb\bin\Debug\EntityFramework.dll
+I:\Store\Store\StoreWeb\bin\Debug\EntityFramework.SqlServer.dll
+I:\Store\Store\StoreWeb\bin\Debug\StoreBusiness.dll
+I:\Store\Store\StoreWeb\bin\Debug\StoreModel.dll
+I:\Store\Store\StoreWeb\bin\Debug\System.Web.Http.dll
+I:\Store\Store\StoreWeb\bin\Debug\StoreDataAccess.dll
+I:\Store\Store\StoreWeb\bin\Debug\Newtonsoft.Json.dll
+I:\Store\Store\StoreWeb\bin\Debug\StoreBusiness.pdb
+I:\Store\Store\StoreWeb\bin\Debug\StoreBusiness.dll.config
+I:\Store\Store\StoreWeb\bin\Debug\StoreModel.pdb
+I:\Store\Store\StoreWeb\bin\Debug\EntityFramework.xml
+I:\Store\Store\StoreWeb\bin\Debug\EntityFramework.SqlServer.xml
+I:\Store\Store\StoreWeb\bin\Debug\System.Web.Http.xml
+I:\Store\Store\StoreWeb\bin\Debug\StoreDataAccess.pdb
+I:\Store\Store\StoreWeb\bin\Debug\StoreDataAccess.dll.config
+I:\Store\Store\StoreWeb\obj\Debug\StoreWeb.csproj.CopyComplete
